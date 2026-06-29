@@ -6,3 +6,7 @@ day 1 : Sum Of Two Number
 day 2 : Palindrome
         Concatenation of array
 day 3: Reverse Integer
+       FizzBuzz 
+       POwerOfTwo
+day 4 : PlusOne
+

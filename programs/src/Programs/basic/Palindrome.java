@@ -21,3 +21,14 @@ public class Palindrome {
         }
     }
 }
+
+// algorithm
+/*
+S1 : read the input and initialize rev
+S2 : get the each last digit
+S3 : add it to the rev
+S4 : remove the last digit
+
+Reverse the digits of the given integer and cwhether a number reads the same from left to right and right to left.
+
+ */
